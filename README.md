@@ -41,9 +41,9 @@ This repository contains the Minimum Viable Product (MVP) for the **African Remi
    git clone [https://github.com/your-username/blch9x2-capstone-remittances.git](https://github.com/your-username/blch9x2-capstone-remittances.git)
    cd blch9x2-capstone-remittances
    ```
-2. Install dependencies:
+2. Install dependencies using `requirements.txt`:
    ```bash
-   pip install flask
+   pip install -r requirements.txt
    ```
 
 ---
