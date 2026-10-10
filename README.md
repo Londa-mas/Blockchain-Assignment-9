@@ -38,8 +38,8 @@ This repository contains the Minimum Viable Product (MVP) for the **African Remi
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/blch9x2-capstone-remittances.git](https://github.com/your-username/blch9x2-capstone-remittances.git)
-   cd blch9x2-capstone-remittances
+   git clone [https://github.com/Londa-mas/Blockchain-Assignment-9.git](https://github.com/Londa-mas/Blockchain-Assignment-9.git)
+   cd Blockchain-Assignment-9
    ```
 2. Install dependencies using `requirements.txt`:
    ```bash
