@@ -1,4 +1,11 @@
-# mZAR Remittance Prototype (BLCH9X2 Assignment 9)
+# mZAR Remittance Prototype 
+
+**Course:** Master of Financial Engineering (MFE), University of Johannesburg  
+**Module:** BLCH9X2 Blockchain  
+**Group Members:** O.T.H Masuku, P.T. Molete, & M.M. Moketla
+
+---
+
 
 A simplified remittance payment platform built on our semester blockchain. A sender converts rand into a simulated stablecoin (mZAR) at a 1:1 reserve rule, transfers it in an ECDSA-signed transaction that is mined into a block, and the recipient redeems it for rand. Every step is recorded and verifiable through a small Flask API and an HTML explorer.
 
